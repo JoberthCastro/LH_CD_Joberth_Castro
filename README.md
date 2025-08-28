@@ -2,7 +2,6 @@
 
 ### Como executar no Google Colab
 - Envie para o Colab os arquivos `desafio_indicium_imdb.csv` e `lh_indicium_imdb.ipynb`.
-- Abra o notebook e rode as células na ordem. Se faltar algum pacote, descomente a célula de instalação.
 
 ### Como executar localmente
 1. Python 3.10+
