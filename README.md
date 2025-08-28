@@ -23,3 +23,6 @@ pip install -r requirements.txt
 Veja o dicionário no enunciado. O notebook faz parsing de `Runtime` para minutos e de `Gross` para número, além de TF-IDF em `Overview`.
 
 
+### O QUE FALTA?
+- Fazer com que o modelo pegue dados categóricos
+- Fazer análise da pergunta 2b
